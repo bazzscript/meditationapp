@@ -1,5 +1,9 @@
 
-## Get started
+# Get started
+
+- [Click Here To Download Apk and run on android device](https://expo.dev/artifacts/eas/6Yk1xcDsYQ5bnuA123D8KN.apk) <https://expo.dev/artifacts/eas/6Yk1xcDsYQ5bnuA123D8KN.apk>
+
+# Run On Your Device
 
 1. Install dependencies
 
